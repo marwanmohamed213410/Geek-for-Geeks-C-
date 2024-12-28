@@ -1,1 +1,1 @@
-# Geek-for-Geeks-C-
+# Geek-for-Geeks-C++
