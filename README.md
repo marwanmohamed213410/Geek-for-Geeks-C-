@@ -1,2 +1,0 @@
-# Geek-for-Geeks-C++
-Writing C++ programs yourself is the best way to learn the C++ language. C++ programs are also asked in the interviews. This article covers the top practice problems for basic C++ programs on topics like control flow, patterns, and functions to complex ones like pointers, arrays, and strings.
